@@ -20,7 +20,7 @@
     "url": "https://github.com/bitpay/digicore-wallet-utils/issues"
   },
   "dependencies": {
-    "digicore": "0.11.6",
+    "digicore": "^0.11.6",
     "coveralls": "^2.11.2",
     "lodash": "^3.3.1",
     "preconditions": "^1.0.8",
