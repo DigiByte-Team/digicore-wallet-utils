@@ -1,25 +1,26 @@
 {
-  "name": "bitcore-wallet-utils",
-  "description": "Common library for Bitcore Wallet Service and Client",
-  "author": "BitPay Inc",
+  "name": "digicore-wallet-utils",
+  "description": "Common library for Digicore Wallet Service and Client",
+  "author": "Digibyte",
   "version": "0.0.9",
   "main": "index.js",
   "keywords": [
     "bitcoin",
+    "digibyte",
     "copay",
     "multisig",
     "wallet",
     "utils"
   ],
   "repository": {
-    "url": "git@github.com:bitpay/bitcore-wallet-utils.git",
+    "url": "git@github.com:digibyte-team/digicore-wallet-utils.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/bitpay/bitcore-wallet-utils/issues"
+    "url": "https://github.com/bitpay/digicore-wallet-utils/issues"
   },
   "dependencies": {
-    "bitcore": "0.11.6",
+    "digicore": "0.11.6",
     "coveralls": "^2.11.2",
     "lodash": "^3.3.1",
     "preconditions": "^1.0.8",
